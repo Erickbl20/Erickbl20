@@ -102,3 +102,4 @@ FastAPI · DDD/Hexagonal · React PWA · Gemini 2.5 Flash · Solidity ERC-721 ·
 *"La complejidad del sistema es directamente proporcional a la claridad de su arquitectura."*
 
 </div>
+
